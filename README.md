@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tarunsatyasts
 - 👀 I’m interested in ... Technology
-- 🌱 I’m currently learning ...django,Mangodb
+- 🌱 I’m currently Working ...React and NextJS
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ... tarunsatyasts@gmail.com,9494411171
 
